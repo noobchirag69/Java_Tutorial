@@ -7,7 +7,7 @@ public class Tutorial {
 	public static void main(String[] args) {
 		// Print Statement in Java
 		System.out.println("Hello, World!"); // Prints and moves on to New Line
-		System.out.print("Helo, Java!\n"); // Same thing but with \n
+		System.out.print("Hello, Java!\n"); // Same thing but with \n
 		// Variables in Java
 		String name = "Chirag"; // String
 		int age = 22; // Integer
