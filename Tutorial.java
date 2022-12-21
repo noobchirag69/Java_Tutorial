@@ -1,6 +1,6 @@
 package Tutorial;
 
-// TestProject is a Public class, which means it is accessible to everyone inside the code
+// Tutorial is a Public class, which means it is accessible to everyone inside the code
 public class Tutorial {
 
 	// Main Function with a return type of Void
